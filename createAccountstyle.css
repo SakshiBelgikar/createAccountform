@@ -1,0 +1,423 @@
+.Recruitment-createAccount-sectionleft{
+
+}
+
+
+.Recruitment-createAccount-sectionleft-top{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 15%;
+}
+
+.Recruitment-createAccount-sectionleft-top-img1{
+    width: auto;
+    /* height: 100vh; */
+    margin-top: 5%;
+}
+.Recruitment-createAccount-sectionleft-top-p1{
+    font-family: Inter;
+    font-size: 1.5rem;
+    font-weight: 600;
+    line-height: 40px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #18191C;
+    margin-left: 2%;
+    margin-top: 8%;
+}
+.Recruitment-createAccount-sectionleft-bottom-main{
+    padding-right:  20% ;
+    padding-left:  20% ;
+    padding-bottom: 10%;
+}
+
+.Recruitment-createAccount-sectionleft-bottom{
+    display: flex;
+    justify-content: space-between;
+}
+
+.Recruitment-createAccount-sectionleft-bottom-headings-p1{
+    /* //styleName: Heading/03; */
+font-family: Inter;
+font-size: 1.5rem;
+font-weight: 500;
+line-height: 40px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color:  #18191C;
+
+}
+
+.Recruitment-createAccount-sectionleft-bottom-headings-p2{
+    /* //styleName: Body/Medium/400; */
+font-family: Inter;
+font-size: 0.9rem;
+font-weight: 400;
+line-height: 24px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+
+}
+
+.Recruitment-createAccount-sectionleft-bottom-select-options{
+    margin-top: 2%;
+    margin-left: 5%;
+     border-radius: 5px;
+    
+     /* border:2px  solid #E4E5E8; */
+    /* border-color: none; */
+}
+
+.Recruitment-createAccount-sectionleft-bottom-fullname-outer{
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.Recruitment-createAccount-sectionleft-bottom-fullname{
+    margin-bottom: 2%;
+    /* padding-left: 2%; */
+ 
+}
+
+.Recruitment-createAccount-sectionleft-bottom-fullname input{
+    width: 100%;
+    border-radius: 5px;
+    outline: none;
+    border:1px solid #E4E5E8;
+    
+}
+.Recruitment-createAccount-sectionleft-bottom-Username input{
+    width:100%;
+    border-radius: 5px;
+    outline: none;
+    border:1px solid #E4E5E8;
+    
+}
+
+.Recruitment-createAccount-sectionleft-bottom-fields-Emailaddress{
+     width: 100%;
+    margin-bottom: 2%
+    
+    
+} 
+.Recruitment-createAccount-sectionleft-bottom-fields-Emailaddress input{
+    width: 100%;
+
+
+   border-radius : 5px;
+   border:1px solid #E4E5E8;
+   outline: none;
+
+   
+}
+
+.Recruitment-createAccount-sectionleft-bottom-fields-password{
+    display: flex;
+    width: 100%;
+    margin-bottom: 2%; 
+    
+     justify-content: center;
+    border-radius: 5px;
+    border: none;
+    outline: none;
+    border:1px solid #E4E5E8;
+}
+
+.Recruitment-createAccount-sectionleft-bottom-fields-password-input{
+    display: flex;
+    width: 100%;
+    
+    /* padding: 1%; */
+    justify-content: center;
+    border-radius: 5px;
+    border: none !important;
+    outline: none;
+    
+}
+
+.Recruitment-createAccount-sectionleft-bottom-fields-confirmpassword{
+     display: flex;
+    width: 100%;
+    /* margin-bottom: 2%; */
+    
+     justify-content: center;
+    border-radius: 5px;
+    border: none;
+    outline: none;
+    border:1px solid #E4E5E8;
+}
+.Recruitment-createAccount-sectionleft-bottom-fields-confirmpassword input{
+    display: flex;
+    width: 100%;
+    /* margin-bottom: 2%; */
+    /* padding: 1%; */
+    justify-content: center;
+    border-radius: 5px;
+    border: none;
+    outline: none;
+    
+}
+
+.Recruitment-createAccount-sectionleft-bottom-checkbox{
+display: flex;
+
+}
+.Recruitment-createAccount-sectionleft-bottom-checkbox-p1{
+margin-left: 2%;
+margin-top: 2%;
+}
+
+.Recruitment-createAccount-sectionleft-bottom-button{
+    /* //styleName: Button/Button; */
+font-family: Inter;
+font-size: 1rem;
+font-weight: 600;
+line-height: 24px;
+text-align: center;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color: #FFFFFF;
+background-color: #3C46D3;
+border-radius: 5px;
+border: none;
+width: 100%;
+padding: 1%;
+}
+
+.Recruitment-createAccount-sectionleft-bottom-OR{
+    text-align: center;
+    margin: 2%;
+}
+
+.Recruitment-createAccount-sectionleft-bottom-Facebook-google-outer{
+    display: flex;
+    justify-content: space-between;
+}
+.Recruitment-createAccount-sectionleft-bottom-Facebook-main{
+
+ outline: none;
+    border:1px solid #E4E5E8;
+    border-radius: 5px;
+    width: 100%;  
+    display: flex; 
+    justify-content: center;
+     padding: 5px 5px;
+    
+}
+.Recruitment-createAccount-sectionleft-bottom-Google-main{
+    /* /* border-radius: 5px; */
+    outline: none;
+    border:1px solid #E4E5E8;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    padding: 5px 5px;
+}
+
+
+.Recruitment-createAccount-sectionright{
+       background-color: #3C46D3; /* Teal with 50% opacity */  
+       background-image:url(createAccount-images/createAccount-img4.png) ;  
+        background-size: cover;
+        background-position: center; 
+        background-blend-mode: overlay; 
+        
+    
+}
+
+.Recruitment-createAccount-sectionright-p1{
+    /* //styleName: Heading/01; */
+    font-family: Inter;
+    font-size: 1.5rem;
+    font-weight: 500;
+    line-height: 35px;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color:  #FFFFFF;
+    margin-top: 60%;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+.Recruitment-createAccount-sectionright-bottom{
+    display: flex;
+    justify-content: space-evenly;
+}
+.Recruitment-createAccount-sectionright-bottom-side1{
+    display: block;
+}
+.Recruitment-createAccount-sectionright-bottom-side1-p{
+    /* //styleName: Body/XL/500; */
+font-family: Inter;
+font-size: 1rem;
+font-weight: 500;
+line-height: 32px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color: #FFFFFF;
+}
+.Recruitment-createAccount-sectionright-bottom-side1-p1{
+    /* //styleName: Body/Small/400; */
+font-family: Inter;
+font-size: 0.8rem;
+font-weight: 400;
+line-height: 20px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color: #FFFFFF;
+
+}
+
+.Recruitment-createAccount-sectionright-bottom-side2{
+    display: block;
+}
+.Recruitment-createAccount-sectionright-bottom-side2-p{
+    /* //styleName: Body/XL/500; */
+font-family: Inter;
+font-size: 1rem;
+font-weight: 500;
+line-height: 32px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color: #FFFFFF;
+}
+.Recruitment-createAccount-sectionright-bottom-side2-p1{
+    /* //styleName: Body/Small/400; */
+font-family: Inter;
+font-size: 0.8rem;
+font-weight: 400;
+line-height: 20px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color: #FFFFFF;
+
+}
+
+.Recruitment-createAccount-sectionright-bottom-side3{
+    display: block;
+}
+.Recruitment-createAccount-sectionright-bottom-side3-p{
+    /* //styleName: Body/XL/500; */
+font-family: Inter;
+font-size:1rem;
+font-weight: 500;
+line-height: 32px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color: #FFFFFF;
+}
+
+.Recruitment-createAccount-sectionright-bottom-side3-p1{
+    /* //styleName: Body/Small/400; */
+font-family: Inter;
+font-size: 0.8rem;
+font-weight: 400;
+line-height: 20px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color: #FFFFFF;
+
+}
+
+
+
+
+
+
+/*<.......................... media Query...............................> */
+@media(min-width:300px) and (max-width:1000px){
+    
+    .Recruitment-createAccount-sectionleft-bottom{
+display: block;
+justify-content: center;
+    }
+
+    .Recruitment-createAccount-sectionleft-bottom-headings-p1{
+        margin-left: 15%;
+    }
+    .Recruitment-createAccount-sectionleft-bottom-headings-p2{
+        margin-left: 15%;
+    }
+
+   .Recruitment-createAccount-sectionleft-bottom-select-options{
+margin-bottom: 5%;
+margin-left: 25%;
+   }
+   
+
+   .Recruitment-createAccount-sectionleft-bottom-main{
+    padding-right:  10% ;
+    padding-left:  10% ;
+    padding-bottom: 10%;
+}
+
+   .Recruitment-createAccount-sectionleft-bottom-fullname-outer{
+    display: block;
+    justify-content: space-between;
+
+}
+   .Recruitment-createAccount-sectionleft-bottom-fullname{
+    margin-bottom: 2%;
+    width: 100%;
+    
+    
+}
+.Recruitment-createAccount-sectionleft-bottom-fullname input{
+    width: 100%;
+    border-radius: 5px;
+    outline: none;
+    border:1px solid #E4E5E8;
+    
+    
+}
+.Recruitment-createAccount-sectionleft-bottom-Username{
+    margin-bottom: 2%;
+    width: 100%;
+    
+    
+}
+.Recruitment-createAccount-sectionleft-bottom-checkbox{
+    margin-top: 2%;
+    
+}
+.Recruitment-createAccount-sectionleft-bottom-checkbox-p1{
+    margin-left: 15%;
+margin-top: 10%;
+font-size: 0.9rem;
+
+}
+.Recruitment-createAccount-sectionleft-bottom-Facebook-google-outer{
+    display: block;
+    /* justify-content: space-between; */
+}
+.Recruitment-createAccount-sectionleft-bottom-Facebook{
+    margin-bottom: 2%;
+    
+}
+
+.Recruitment-createAccount-sectionright{
+    height: 100vh;
+}
+.Recruitment-createAccount-sectionright-p1{
+    font-size: 1.2rem;
+    /* margin-top: 90%; */
+    margin-left: 0%;
+    margin-right: 0%;
+    line-height: 38px;
+}
+
+.Recruitment-createAccount-sectionright-bottom{
+    margin-top: 20%;
+}
+}
